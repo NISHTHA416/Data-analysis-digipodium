@@ -1,0 +1,10 @@
+@@ -0,0 +1,9 @@
+streamlit
+pandas
+plotly
+numpy
+scipy
+openpyxl
+pillow
+scikit-learn
+statsmodels

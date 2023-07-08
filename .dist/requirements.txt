@@ -8,6 +8,7 @@ streamlit
 flask
 pyqt6
 dputils
+
 opencv-contrib-python
 tweepy
 pysimplegui
